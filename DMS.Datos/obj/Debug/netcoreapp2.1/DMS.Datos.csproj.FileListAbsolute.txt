@@ -1,0 +1,28 @@
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.deps.json
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.dll
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.csprojAssemblyReference.cache
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.csproj.CoreCompileInputs.cache
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.AssemblyInfoInputs.cache
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.AssemblyInfo.cs
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.runtimeconfig.json
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.runtimeconfig.dev.json
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.pdb
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Entidades.dll
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Entidades.pdb
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.csproj.CopyComplete
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.dll
+C:\Igor.SanMartin\Proyectos\SISTEMA DMS\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.pdb
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.deps.json
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.runtimeconfig.json
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.runtimeconfig.dev.json
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.dll
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Datos.pdb
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Entidades.dll
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\bin\Debug\netcoreapp2.1\DMS.Entidades.pdb
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.csprojAssemblyReference.cache
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.csproj.CoreCompileInputs.cache
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.AssemblyInfoInputs.cache
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.AssemblyInfo.cs
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.csproj.CopyComplete
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.dll
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Datos\obj\Debug\netcoreapp2.1\DMS.Datos.pdb
