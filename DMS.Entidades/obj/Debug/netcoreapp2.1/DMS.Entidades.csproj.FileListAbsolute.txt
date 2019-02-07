@@ -20,3 +20,14 @@ C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Entidades\obj\Debug\netcoreapp
 C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.AssemblyInfo.cs
 C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.dll
 C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.pdb
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\bin\Debug\netcoreapp2.1\DMS.Entidades.deps.json
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\bin\Debug\netcoreapp2.1\DMS.Entidades.runtimeconfig.json
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\bin\Debug\netcoreapp2.1\DMS.Entidades.runtimeconfig.dev.json
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\bin\Debug\netcoreapp2.1\DMS.Entidades.dll
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\bin\Debug\netcoreapp2.1\DMS.Entidades.pdb
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.csprojAssemblyReference.cache
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.csproj.CoreCompileInputs.cache
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.AssemblyInfoInputs.cache
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.AssemblyInfo.cs
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.dll
+C:\Igor.SanMartin\Proyectos\MIGRACION\DMS\DMS.Entidades\obj\Debug\netcoreapp2.1\DMS.Entidades.pdb
